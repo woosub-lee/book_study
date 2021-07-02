@@ -5,6 +5,5 @@
 * 📕 이것이 안드로이드다 (kotlin)
 * 📙 핸즈 온 머신러닝
 * 📒 실전! 텐서플로2를 활용한 딥러닝 컴퓨터 비전
-* 📗 Clean Code
 * 📘 Clean Architecture
 * 📓 딥러닝을 위한 수학
